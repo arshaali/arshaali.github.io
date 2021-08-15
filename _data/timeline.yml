@@ -1,9 +1,9 @@
-- title: place 1
+- title: University of Michigan
+  from: 2020
+  to: Present
+  description: Major: Robotics
+  
+- title: Oakland University
   from: 2016
   to: 2020
-  description: majors,minors, etc.
-  
-- title: place 2
-  from: 2020
-  to: present
-  description: majors,minors, etc.
+  description: Majors: Computer Engineering, Electrical Engineering | Minor: Business Analytics
