@@ -5,7 +5,15 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+### **About Me**
+
+I am a **student**. 
+
+## a header
+
+# another header
+Here are some other things about me.
+
 
 ---
 
