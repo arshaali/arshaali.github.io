@@ -7,10 +7,7 @@ weight: 4
 
 # About Me
 
-I am a **student** studying this at this place.
-
-
-
+I am a robotics student at the University of Michigan.
 
 ---
 
