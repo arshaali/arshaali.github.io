@@ -5,14 +5,15 @@ permalink: /research/
 weight: 1
 ---
 
-### **About Me**
+# Research
 
-I am a **student**. 
+## Current research topic.
 
-## a header
+Here is a short blurb.
 
-# another header
-Here are some other things about me.
+## Driver Takeover Study in Highly Automated Vehicles
+
+Here is a short blurb about the study.
 
 
 ---
