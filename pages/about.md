@@ -5,19 +5,16 @@ permalink: /about/
 weight: 3
 ---
 
-### **About Me**
+# About Me
 
-I am a **student**. 
+I am a **student** studying this at this place.
 
-## a header
 
-# another header
-Here are some other things about me.
 
 
 ---
 
-
+# Education
 
 <!--
 {% capture carousel_images %}
