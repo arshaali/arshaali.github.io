@@ -5,13 +5,13 @@ permalink: /about/
 weight: 5
 ---
 
-# About Me
+### About Me
 
 I am a robotics student at the University of Michigan.
 
 ---
 
-# Education
+### Education
 
 <!--
 {% capture carousel_images %}
