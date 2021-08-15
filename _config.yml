@@ -16,11 +16,13 @@ nav_exclude: # The following paths are excluded from navbar
   - pages/index.md
   - pages/thanks.html
 
-### Author Info ###
+### Author Info (add the social media icons/links here)###
 author:
   name: Arsha Ali
   image: assets/logo.png
   email: arshaali@umich.edu
+  googlescholar: arshaali
+  orcid: 0000-0001-6278-6764
   linkedin: arshaali
   github: arshaali
 
