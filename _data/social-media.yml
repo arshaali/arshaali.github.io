@@ -13,8 +13,8 @@ dribbble:
 
 email:
   url   : "mailto:"
-  icon  : fas fa-envelope
-  color : 34bf49
+  icon  : fas fa-envelope fa-5x
+  color : ffdd00
   font-size: 5x
 
 facebook:
@@ -24,7 +24,7 @@ facebook:
 
 github:
   url   : https://www.github.com/
-  icon  : fab fa-github
+  icon  : fab fa-github fa-5x
   color : 333333
   font-size: 5x
 
@@ -45,7 +45,7 @@ kaggle:
 
 linkedin:
   url   : https://www.linkedin.com/in/
-  icon  : fab fa-linkedin
+  icon  : fab fa-linkedin fa-5x
   color : 007bb5
   font-size: 5x
 
@@ -57,7 +57,7 @@ orcid:
 
 googlescholar:
   url   : https://www.scholar.google.com/
-  icon  : fab fa-google
+  icon  : fab fa-google fa-5x
   color : c00000
   font-size: 5x
   
