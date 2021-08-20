@@ -15,6 +15,7 @@ email:
   url   : "mailto:"
   icon  : fas fa-envelope
   color : 34bf49
+  font-size: 50px
 
 facebook:
   url   : https://www.facebook.com/
