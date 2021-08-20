@@ -49,9 +49,9 @@ linkedin:
 
 orcid:
   url   : https://www.orcid.org/
-  icon  : fab fa-orcid fa-7x
+  icon  : fab fa-orcid
   color : 7ac143
-  font-size: 7x
+  font-size: 3x
 
 googlescholar:
   url   : https://www.scholar.google.com/
