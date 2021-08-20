@@ -8,7 +8,6 @@
 
 Ideas:
 -add featured news
--put AA circle on contact page
 -increase size of social logos
 -remove projects page
 -add news (as tiles)
