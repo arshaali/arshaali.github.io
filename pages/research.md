@@ -19,7 +19,7 @@ Ali, A., Bellafaire, M., & Chen, Q., "Secondary Task Survey and Driving Simulato
 
 Additional details on the background literature, takeover study, and preliminary results are documented in my Honors College thesis [here](https://our.oakland.edu/bitstream/handle/10323/7476/thesis_final_Ali.pdf?sequence=1).
 
-Ali, A., "Evaluation of Common Secondary Tasks in Highly Automated Vehicles," _Oakland University Honors College Thesis_,2020.
+Ali, A., "Evaluation of Common Secondary Tasks in Highly Automated Vehicles," _Oakland University Honors College Thesis_, 2020.
 
 
 ---
