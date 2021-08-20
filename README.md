@@ -9,7 +9,6 @@
 Ideas:
 -add featured news
 -put AA circle on contact page
--make orcid logo show up
 -increase size of social logos
 -remove projects page
 -add news (as tiles)
