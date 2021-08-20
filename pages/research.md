@@ -5,9 +5,17 @@ permalink: /research/
 weight: 1
 ---
 
+### Research Interests
+
+human-robot interaction, autonomous vehicles, trust in automation, human-robot communication
+
+---
+
 ### Trust-Based Task Allocation Strategy for use in Heterogenous Human-Robot Teams
 
 In heterogenous human-robot teams where agents are working towards a common goal, there is a need to allocate indivisible tasks to agents on the team. I am actively working on a novel task allocation strategy that is based on trust in the agent. 
+
+---
 
 ### Driver Takeover Study in Highly Automated Vehicles
 
