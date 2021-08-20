@@ -14,3 +14,4 @@ Ideas:
 -remove projects page
 -add news (as tiles)
 -change the theme basic blue color
+-add spacing/line breaks to education timeline for OU
