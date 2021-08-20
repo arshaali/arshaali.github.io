@@ -8,7 +8,6 @@
 
 Ideas:
 -add featured news
--increase size of social logos
 -remove projects page
 -add news (as tiles)
 -change the theme basic blue color
