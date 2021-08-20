@@ -7,10 +7,10 @@
 
 
 Ideas:
+-add featured news
 -put AA circle on contact page
 -make orcid logo show up
--add to research page
--add to publications page with pdf button
+-increase size of social logos
 -remove projects page
 -add news (as tiles)
 -change the theme basic blue color
