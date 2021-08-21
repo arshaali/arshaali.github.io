@@ -8,4 +8,4 @@
 
 Ideas:
 -change the theme basic blue color
--make sure social media links work
+-make google scholar link work
