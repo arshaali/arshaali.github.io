@@ -6,6 +6,6 @@
 
 
 
-Ideas:
--change the theme basic blue color (think it is either 0389ff or 037ef3)
+Ideas:<br>
+-change the theme basic blue color: There is 1 line in "variable.scss" and 8 lines in "style.css" where you need to replace #007bff with your choosen color. This does not change the blue on the buttons (e.g., "See All", "PDF") or downward arrow.<br>
 -make google scholar link work
