@@ -28,3 +28,14 @@ https://i.pinimg.com/originals/08/e7/ec/08e7ec0f84233b37ac26e920bc60ec57.gif
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+---
+
+### Awards and Honors
+
+ Column 1       | Column 2     
+ :------------- | :----------:
+  Cell Contents | More Stuff  
+ You Can Also   | Put Pipes In
+
+
