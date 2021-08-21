@@ -7,5 +7,5 @@
 
 
 Ideas:
--change the theme basic blue color
+-change the theme basic blue color (think it is either 0389ff or 037ef3)
 -make google scholar link work
