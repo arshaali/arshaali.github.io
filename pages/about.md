@@ -39,12 +39,12 @@ td, th {
 }
 </style>
 
-2021       | here     
+2021       | 2021 Robotics Outreach Ambassador Award  
 2020       | Engineering Society of Detroit Outstanding College Student of the Year
            | Oakland University John and Horace Dodge Engineering Academic Award
            | Oakland University Honors College Highest GPA Award
 2019       | Oakland University Honors College Merit Award
            | Oakland University Provost Undergraduate Research Award
-           | Oakland University Department of Mathematics and Statistics Oustanding Academic Achievement Award
+           | Oakland University Department of Mathematics and Statistics Outstanding Academic Achievement Award
 
 
