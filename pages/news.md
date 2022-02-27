@@ -12,6 +12,10 @@ td, th {
 }
 </style>
 
+### 2022
+
+Mar 6 &nbsp; &nbsp; &nbsp; &nbsp; | Attended HRI'22, contributed as a student volunteer, and discussed a short paper accepted to Workshop YOUR Study Design.
+
 ### 2021
 
 Nov 19 &nbsp; &nbsp; &nbsp; &nbsp; | Presented a poster at the UM Engineering Research Symposium.
