@@ -14,6 +14,7 @@ td, th {
 
 ### 2022
 
+Apr 29 | Graduated with my Master's degree.
 Mar 6 &nbsp; &nbsp; &nbsp; &nbsp; | Attended HRI'22, contributed as a student volunteer, and discussed a short paper accepted to Workshop YOUR Study Design.
 
 ### 2021
