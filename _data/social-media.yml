@@ -56,7 +56,7 @@ orcid:
   font-size: 5x
 
 googlescholar:
-  url   : https://www.scholar.google.it/
+  url   : https://scholar.google.it/
   icon  : fab fa-google fa-5x
   color : c00000
   font-size: 5x
