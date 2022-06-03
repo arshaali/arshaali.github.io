@@ -16,6 +16,7 @@ td, th {
 
 June 27 | Attending the RSS Conference in New York City as an Inclusion@RSS Fellow.
 June 21 | Attending and presenting a poster at the ARC Annual Review.
+June 6 | Attending the Automate tradeshow in Detroit.
 May 23 | Attended the ICRA Conference in Philadelphia and presented a short paper accpeted to the Workshop on Collaborative Robots and the Work of the Future.
 Apr 29 | Graduated with my Master's degree.
 Mar 6 &nbsp; &nbsp; &nbsp; &nbsp; | Attended HRI'22, contributed as a student volunteer, and discussed a short paper accepted to Workshop YOUR Study Design.
