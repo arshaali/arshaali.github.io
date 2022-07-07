@@ -14,8 +14,8 @@ td, th {
 
 ### 2022
 
-June 27 - July 1 | Attended the RSS Conference in New York City as an Inclusion@RSS Fellow.
-June 21 - June 22 | Attended and presented a poster at the ARC Annual Review.
+Jun 27 - Jul 1 | Attended the RSS Conference in New York City as an Inclusion@RSS Fellow.
+Jun 21 - Jun 22 | Attended and presented a poster at the ARC Annual Review.
 May 23 | Attended the ICRA Conference in Philadelphia and presented a short paper accpeted to the Workshop on Collaborative Robots and the Work of the Future.
 Apr 29 | Graduated with my Master's degree.
 Mar 6 &nbsp; &nbsp; &nbsp; &nbsp; | Attended HRI'22, contributed as a student volunteer, and discussed a short paper accepted to Workshop YOUR Study Design.
