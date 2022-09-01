@@ -39,6 +39,7 @@ td, th {
 }
 </style>
 
+2022       | 2022 University of Michigan Robotics Outreach Ambassador Award  
 2021       | 2021 University of Michigan Robotics Outreach Ambassador Award  
 2020       | Engineering Society of Detroit Outstanding College Student of the Year
            | Oakland University John and Horace Dodge Engineering Academic Award
