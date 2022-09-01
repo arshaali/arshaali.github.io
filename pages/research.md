@@ -7,21 +7,21 @@ weight: 1
 
 ### Research Interests
 
-human-robot interaction, autonomous vehicles, trust in automation, situation awareness
+human-robot interaction, autonomous vehicles, trust in automation, situation awareness, mental models
 
 
 ---
 
 ### Optimizing Human-Robot Team Situation Awareness
 
-For human-robot teams to work effectively, each agent on the team should have an understanding of what their teammates are doing, why they are doing it, and what they are likely to do next. I am actively working on a user study to determine how team situation awareness can be improved. The goal is to use this information to then create a model for team situation awareness that can be used for situation awareness calibration. 
+For human-robot teams to work effectively, each agent on the team should have an understanding of what their teammates are doing, why they are doing it, and what they are likely to do next. I am actively working on a user study to determine how team situation awareness can be improved with a particular interest in shared mental models. The goal is to use this information to then create a model for team situation awareness that can be used for situation awareness calibration. 
 
 
 ---
 
-### Trust-Based Task Allocation Strategy for use in Heterogenous Human-Robot Teams
+### Trust-Based Task Allocation Method for use in Heterogenous Human-Robot Teams
 
-In heterogenous human-robot teams where agents are working towards a common goal, there is a need to allocate indivisible tasks to agents on the team. I am actively working on a novel task allocation strategy and user study that is based on trust in the agent. 
+In heterogenous human-robot teams where agents are working towards a common goal, there is a need to allocate indivisible tasks to agents on the team. I am actively working on a novel task allocation method and user study that is based on trust in the agent. 
 
 An explanation of the idea of using trust for task allocation is documented [here](https://deepblue.lib.umich.edu/handle/2027.42/170403).
 
