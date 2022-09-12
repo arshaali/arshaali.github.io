@@ -23,7 +23,7 @@ For human-robot teams to work effectively, each agent on the team should have an
 
 In heterogenous human-robot teams where agents are working towards a common goal, there is a need to allocate indivisible tasks to agents on the team. I am actively working on a novel task allocation method and user study that is based on trust in the agent. 
 
-An explanation of the idea of using trust for task allocation is documented [here](https://deepblue.lib.umich.edu/handle/2027.42/170403).
+An explanation of the idea of using trust for task allocation is documented [here](https://deepblue.lib.umich.edu/handle/2027.42/170403). A more detailed article with simulations, results, and discussion is documented [here](https://www.nature.com/articles/s41598-022-19140-5).
 
 ---
 
