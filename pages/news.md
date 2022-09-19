@@ -15,7 +15,7 @@ td, th {
 ### 2022
 
 Sept 12 | Published an [article](https://www.nature.com/articles/s41598-022-19140-5) in _Scientific Reports_.
-Aug 23 | Earned the 2022 University of Michigan Robotics Outreach Ambassador Award.
+Aug 23 | Earned the 2022 University of Michigan [Robotics Outreach Ambassador Award](https://robotics.umich.edu/2022/the-2022-robotics-outreach-ambassadors/?utm_campaign=Michigan%20Robotics%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter).
 Jun 27 - Jul 1 | Attended the [RSS Conference](https://roboticsconference.org/) in New York City as an [Inclusion@RSS](https://sites.google.com/andrew.cmu.edu/inclusion-rss-2022/home) Fellow.
 Jun 21 - Jun 22 | Attended and presented a poster at the [ARC Annual Review](https://arc.engin.umich.edu/events/annual-program-review/).
 May 23 | Attended the [ICRA Conference](https://www.icra2022.org/) in Philadelphia and presented a short paper accpeted to the [Workshop on Collaborative Robots and the Work of the Future](https://sites.google.com/view/icra22ws-cor-wotf/home).
