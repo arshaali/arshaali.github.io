@@ -11,6 +11,13 @@ I am a robotics student at the [University of Michigan](https://umich.edu/).
 
 ---
 
+### CV
+
+You can find a current copy of my CV (updated October 9, 2022) [here](https://drive.google.com/file/d/1ILgSukPCXXIDOvcbJXl92p3Vr6mL3um6/view?usp=sharing).
+
+---
+
+
 ### Education
 
 <!--
