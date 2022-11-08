@@ -14,6 +14,7 @@ td, th {
 
 ### 2022
 
+Nov 2 - Nov 6 | Attended the SHPE 2022 National Convention in Charlotte.
 Sept 12 | Published an [article](https://www.nature.com/articles/s41598-022-19140-5) in _Scientific Reports_.
 Aug 23 | Earned the 2022 University of Michigan [Robotics Outreach Ambassador Award](https://robotics.umich.edu/2022/the-2022-robotics-outreach-ambassadors/?utm_campaign=Michigan%20Robotics%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter).
 Jun 27 - Jul 1 | Attended the [RSS Conference](https://roboticsconference.org/) in New York City as an [Inclusion@RSS](https://sites.google.com/andrew.cmu.edu/inclusion-rss-2022/home) Fellow.
