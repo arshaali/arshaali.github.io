@@ -14,7 +14,7 @@ td, th {
 
 ### 2022
 
-Nov 18 | Presented a [blue sky paper](https://arxiv.org/pdf/2210.03259.pdf) at the [AAAI Artificial Intelligence for Human-Robot Interaction Fall 2022 Symposium Series](https://ai-hri.github.io/2022/#home).
+Nov 17 - Nov 19 | Attended and presented a [blue sky paper](https://arxiv.org/pdf/2210.03259.pdf) at the [AAAI Artificial Intelligence for Human-Robot Interaction Fall 2022 Symposium Series](https://ai-hri.github.io/2022/#home).
 Nov 2 - Nov 6 | Attended the SHPE 2022 National Convention in Charlotte.
 Sept 12 | Published an [article](https://www.nature.com/articles/s41598-022-19140-5) in _Scientific Reports_.
 Aug 23 | Earned the 2022 University of Michigan [Robotics Outreach Ambassador Award](https://robotics.umich.edu/2022/the-2022-robotics-outreach-ambassadors/?utm_campaign=Michigan%20Robotics%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter).
