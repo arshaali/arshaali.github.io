@@ -7,7 +7,7 @@ weight: 5
 
 ### About Me
 
-I am a robotics student at the [University of Michigan](https://umich.edu/).
+I am a robotics graduate student at the [University of Michigan](https://umich.edu/).
 
 ---
 
