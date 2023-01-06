@@ -13,7 +13,7 @@ I am a robotics graduate student at the [University of Michigan](https://umich.e
 
 ### CV
 
-You can find a current copy of my CV (updated January 3, 2023) [here](https://drive.google.com/file/d/1Mo2HHkSQ4OAC1p1HyteTnO-wJDg2B9Ma/view?usp=sharing).
+You can find a current copy of my CV (updated January 6, 2023) [here](https://drive.google.com/file/d/1v4qrV4xSXj06a6ci-JORG20mExqy5Uqm/view?usp=sharing).
 
 ---
 
