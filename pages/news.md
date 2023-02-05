@@ -12,6 +12,10 @@ td, th {
 }
 </style>
 
+### 2023
+
+Feb 4 | Won first place in the [Munger Case Competition](https://sites.google.com/umich.edu/munger-case-competition/home) addressing the topic of building community for graduate students.
+
 ### 2022
 
 Nov 17 - Nov 19 | Attended and presented a [blue sky paper](https://arxiv.org/pdf/2210.03259.pdf) at the [AAAI Artificial Intelligence for Human-Robot Interaction Fall 2022 Symposium Series](https://ai-hri.github.io/2022/#home).
