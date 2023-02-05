@@ -14,7 +14,7 @@ td, th {
 
 ### 2023
 
-Feb 4 | Won first place in the [Munger Case Competition](https://sites.google.com/umich.edu/munger-case-competition/home) addressing the topic of building community for graduate students.
+Feb 4 &nbsp; &nbsp; &nbsp; &nbsp; | Won first place in the [Munger Case Competition](https://sites.google.com/umich.edu/munger-case-competition/home) addressing the topic of building community for graduate students.
 
 ### 2022
 
