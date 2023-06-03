@@ -14,6 +14,9 @@ td, th {
 
 ### 2023
 
+May 30 | Workshop paper accepted and presented (by a co-author) at the [3rd ACC Workshop on Recent Advancement of Human Autonomy Interaction and Integration](https://zoe104yao.github.io/ACC2023Workshop/).
+May 23 | Attended the [Automate Show](https://www.automateshow.com/) in Detroit.
+May 9 - May 10 | Attended and prepared a technical talk and poster for presentation at the [ARC Annual Review](https://arc.engin.umich.edu/events/annual-program-review/).
 Feb 4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Won first place in the [Munger Case Competition](https://sites.google.com/umich.edu/munger-case-competition/home) addressing the topic of building community for graduate students.
 
 ### 2022
