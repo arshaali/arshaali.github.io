@@ -13,7 +13,7 @@ I am a robotics graduate student at the [University of Michigan](https://umich.e
 
 ### CV
 
-You can find a current copy of my CV (updated February 5, 2023) [here](https://drive.google.com/file/d/1aO64bDel2IONKpRp77rX-IbLuDq3IlnQ/view?usp=sharing).
+You can find a current copy of my CV (updated October 8, 2023) [here](https://drive.google.com/file/d/1aO64bDel2IONKpRp77rX-IbLuDq3IlnQ/view?usp=sharing).
 
 ---
 
@@ -46,7 +46,9 @@ td, th {
 }
 </style>
 
-2023       | First Place in the 2023 Munger Case Competition
+2023       | I/ITSEC RADM Fred Lewis Scholarship
+           | 2023 University of Michigan Robotics Outreach Ambassador Award
+           | First Place in the 2023 Munger Case Competition
 2022       | 2022 University of Michigan Robotics Outreach Ambassador Award  
 2021       | 2021 University of Michigan Robotics Outreach Ambassador Award  
 2020       | Engineering Society of Detroit Outstanding College Student of the Year
