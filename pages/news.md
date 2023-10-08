@@ -13,6 +13,7 @@ td, th {
 </style>
 
 ### 2023
+
 Oct 23 - Oct 27 | Paper accepted and presented (by a co-author) at the [Human Factors and Ergonomics Society 67th Annual Meeting](https://www.hfes.org/Events/International-Annual-Meeting).
 Oct 1 - Oct 5 | Attended [IROS'23](https://ieee-iros.org/) where I presented by late breaking results work (oral presentation and poster) and contributed as a student volunteer.
 Sept 20 | Earned the 2023 University of Michigan [Robotics Outreach Ambassador Award](https://robotics.umich.edu/2023/celebrating-the-robotics-outreach-ambassadors-of-2023/).
