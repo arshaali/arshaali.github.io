@@ -13,7 +13,11 @@ td, th {
 </style>
 
 ### 2023
-
+Oct 23 - Oct 27 | Paper accepted and presented (by a co-author) at the [Human Factors and Ergonomics Society 67th Annual Meeting](https://www.hfes.org/Events/International-Annual-Meeting).
+Oct 1 - Oct 5 | Attended [IROS'23](https://ieee-iros.org/) where I presented by late breaking results work (oral presentation and poster) and contributed as a student volunteer.
+Sept 20 | Earned the 2023 University of Michigan [Robotics Outreach Ambassador Award](https://robotics.umich.edu/2023/celebrating-the-robotics-outreach-ambassadors-of-2023/).
+Jul 27 | Attended my [African Undergraduate Reserach Adventure (AURA)](https://aura.engin.umich.edu/) mentee's final symposium.
+Jun 7 | Appointed as a Transdisciplinary Fellow to serve the Munger graduate student community.
 May 30 | Workshop paper accepted and presented (by a co-author) at the [3rd ACC Workshop on Recent Advancement of Human Autonomy Interaction and Integration](https://zoe104yao.github.io/ACC2023Workshop/).
 May 23 | Attended the [Automate Show](https://www.automateshow.com/) in Detroit.
 May 9 - May 10 | Attended and prepared a technical talk and poster for the [ARC Annual Review](https://arc.engin.umich.edu/events/annual-program-review/).
