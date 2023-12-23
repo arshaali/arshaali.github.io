@@ -12,6 +12,9 @@ td, th {
 }
 </style>
 
+### 2024
+Coming soon...
+
 ### 2023
 
 Nov 27 - Dec 1 | Attended the [Interservice/Industry Training, Simulation and Education Conference (I/ITSEC)](https://www.iitsec.org/) in Orlando.
