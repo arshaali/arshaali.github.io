@@ -14,7 +14,7 @@ td, th {
 
 ### 2024
 Mar 11 - 14 | Attending the [19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)](https://humanrobotinteraction.org/2024/) in Boulder to present a [late breaking report](https://deepblue.lib.umich.edu/handle/2027.42/192466).
-            | More coming soon...
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | More coming soon...
 
 ### 2023
 
