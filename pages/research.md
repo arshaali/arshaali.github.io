@@ -14,7 +14,7 @@ human-robot interaction, human-robot teaming, autonomous vehicles, trust in auto
 
 ### Optimizing Human-Robot Team Situation Awareness
 
-For human-robot teams to work effectively, each agent on the team should have an understanding of what their teammates are doing, why they are doing it, and what they are likely to do next. I am actively working on a user study to determine how team situation awareness can be improved with a particular interest in shared mental models. The goal is to use this information to then create a model for team situation awareness that can be used for situation awareness enhancement. 
+For human-robot teams to work effectively, each agent on the team should have an understanding of what their teammates are doing, why they are doing it, and what they are likely to do next. I am actively working on a user study to determine how team situation awareness can be improved with a particular interest in shared mental models and communication. The goal is to use this information to then create a model for team situation awareness that can be used for situation awareness enhancement. 
 
 
 ---
