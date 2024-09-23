@@ -13,7 +13,7 @@ I am a robotics graduate student at the [University of Michigan](https://umich.e
 
 ### CV
 
-This ia a [current copy of my CV](https://drive.google.com/file/d/1Pay5zOEfg8_QhrT5e_ezxjsAbjuNcuz-/view?usp=sharing) (updated February 9, 2024).
+This ia a [current copy of my CV](https://drive.google.com/file/d/1ojE5LlqVza866FIK1fROpDwwOCYLnuF-/view?usp=sharing) (updated September 21, 2024).
 
 ---
 
@@ -46,6 +46,8 @@ td, th {
 }
 </style>
 
+2024       | 2024 University of Michigan Robotics Outreach Ambassador Award
+           | U.S. Army Summer Research Symposium Competition Finalist
 2023       | I/ITSEC RADM Fred Lewis Scholarship
            | 2023 University of Michigan Robotics Outreach Ambassador Award
            | First Place in the 2023 Munger Case Competition
