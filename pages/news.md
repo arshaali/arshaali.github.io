@@ -14,7 +14,9 @@ td, th {
 
 ### 2024
 
-Mar 11 - 14 | Attending the [19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)](https://humanrobotinteraction.org/2024/) in Boulder to present a [late breaking report](https://deepblue.lib.umich.edu/handle/2027.42/192466).
+Sept 26 | Earned the 2024 University of Michigan [Robotics Outreach Ambassador Award](https://robotics.umich.edu/2024/robotics-outreach-ambassadors-of-2024/).
+May 20 - Aug 16 | Completed an internship in the Information Science/Humans in Complex Systems divisions at the US Army Research Laboratory.
+Mar 11 - 14 | Attended the [19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)](https://humanrobotinteraction.org/2024/) in Boulder to present a [late breaking report](https://deepblue.lib.umich.edu/handle/2027.42/192466).
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | More coming soon...
 
 ### 2023
