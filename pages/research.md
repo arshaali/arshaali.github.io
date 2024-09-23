@@ -5,16 +5,18 @@ permalink: /research/
 weight: 1
 ---
 
-### Research Interests
+### Career and Research Interests
 
-human-robot interaction, human-robot teaming, autonomous vehicles, trust in automation, situation awareness, shared mental models
+Career: software engineering, programming, data science/analytics, user experience, human-centered technology, human factors engineering, autonomous vehicles
+
+Research: human-robot interaction, human-robot teaming, driver-vehicle interaction, autonomous vehicles, trust, situation awareness, shared mental models
 
 
 ---
 
-### Optimizing Human-Robot Team Situation Awareness
+### Optimizing Human-Robot Teaming Through Situation Awareness
 
-For human-robot teams to work effectively, each agent on the team should have an understanding of what their teammates are doing, why they are doing it, and what they are likely to do next. I am actively working on a user study to determine how team situation awareness can be improved with a particular interest in shared mental models and communication. The goal is to use this information to then create a model for team situation awareness that can be used for situation awareness enhancement. 
+For human-robot teams to work effectively, each agent on the team should have an understanding of what their teammates are doing, why they are doing it, and what they are likely to do next. I have conducted two user experiments to investigate how situation awareness can be improved with a particular interest in shared mental models and communication. My next goal is to use data from these experiments to create a real-time model that can be used for situation awareness estimation and enhancement. 
 
 
 ---
