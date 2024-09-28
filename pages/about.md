@@ -70,14 +70,14 @@ td, th {
 }
 </style>
 
-| University of Michigan Housing, Transdisciplinary Fellow
-| African Undergraduate Research Adventure, mentor
-| Local Human-Robot Interaction Student Presentation Series, organizer
-| Rackham First-Generation Student Mentoring Program, mentor
-| Lunch & Lab Grad Mentoring Program, mentor
-| Oakland University Aerial Systems "Drone" Club, president
-| Oakland University Society of Women Engineers, treasurer
-| Oakland University Senior Design, project manager
+           | University of Michigan Housing, Transdisciplinary Fellow
+           | African Undergraduate Research Adventure, mentor
+           | Local Human-Robot Interaction Student Presentation Series, organizer
+           | Rackham First-Generation Student Mentoring Program, mentor
+           | Lunch & Lab Grad Mentoring Program, mentor
+           | Oakland University Aerial Systems "Drone" Club, president
+           | Oakland University Society of Women Engineers, treasurer
+           | Oakland University Senior Design, project manager
 
 ---
 
@@ -89,10 +89,10 @@ td, th {
 }
 </style>
 
-| IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'23), volunteer
-| ACM/IEEE International Conference on Human-Robot Interaction (HRI'22), volunteer
-| A2 Area Invention Convention, project judge
-| Michigan Council of Women in Technology GET-IT Summit, volunteer
-| Oakland University summer international student engineering lab, teaching assistant
+           | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'23), volunteer
+           | ACM/IEEE International Conference on Human-Robot Interaction (HRI'22), volunteer
+           | A2 Area Invention Convention, project judge
+           | Michigan Council of Women in Technology GET-IT Summit, volunteer
+           | Oakland University summer international student engineering lab, teaching assistant
 
 ---
