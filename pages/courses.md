@@ -106,7 +106,7 @@ Banner and Scrolling Messages on Seven-Segment Displays: The purpose of this pro
 
 ​My team and I developed a fully functional lockbox display case. The case holds a secret object that is meant for display only. Such a case uses an ultrasonic distance sensor to gauge the relative distance of an approaching user, and signals the system accordingly. If the user passes a certain threshold, the LEDs will turn red and increase in intensity as the user's distance to the lockbox decreases. Once the user gets too close to the secret object, the system enters lockdown mode. An alarming sound plays through the peizo buzzer. A stepper motor mounted to a pulley system is used to automatically close the lid. A servo motor is used to latch and lock the lid, thus securing the secret object. To disengage the alarm and to reopen the box, the user must enter the correct passcode on a keypad. Additionally, the user can reset the passcode after entering the correct passcode. This project is built entirely with Arduino. My contribution to this project is testing the limits of these needed devices, and developing all of the code for proper functionality.
 
-<img src="../assets/egr2800.png" alt="egr 2800 lockbox project" width="600" height=500">
+<img src="../assets/egr2800.png" alt="egr 2800 lockbox project" width="600" height="500">
 
 ---
 
