@@ -5,9 +5,7 @@ permalink: /research/
 weight: 1
 ---
 
-### Career and Research Interests
-
-Career: software engineering, programming, data science/analytics, user experience, human-centered technology, human factors engineering, autonomous vehicles
+### Research Interests
 
 Research: human-robot interaction, human-robot teaming, driver-vehicle interaction, autonomous vehicles, trust, situation awareness, shared mental models
 
