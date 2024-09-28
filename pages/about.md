@@ -70,7 +70,7 @@ td, th {
 }
 </style>
 
-           | University of Michigan Housing, Transdisciplinary Fellow
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         | University of Michigan Housing, Transdisciplinary Fellow
            | African Undergraduate Research Adventure, mentor
            | Local Human-Robot Interaction Student Presentation Series, organizer
            | Rackham First-Generation Student Mentoring Program, mentor
@@ -89,7 +89,7 @@ td, th {
 }
 </style>
 
-           | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'23), volunteer
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'23), volunteer
            | ACM/IEEE International Conference on Human-Robot Interaction (HRI'22), volunteer
            | A2 Area Invention Convention, project judge
            | Michigan Council of Women in Technology GET-IT Summit, volunteer
