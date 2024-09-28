@@ -39,22 +39,25 @@ weight: 4
 
 ---
 
-#### IOE 535, Cognitive Ergonomics and Human Systems Integration, University of Michigan
+#### IOE 536, Cognitive Ergonomics and Human Systems Integration, University of Michigan
 
 Evolutionary Redesign of a Samsung TV Remote Control: My team and I conducted cognitive task analyses involving structured interviews, surveys, and concurrent think-aloud verbal protocols and utilized three sets of design heuristics to uncover how people use this TV remote. We then redesigned this TV remote to support a cognitive triad relationship between users’ goals, the abilities of the TV remote, and the world/environment in which actions are performed.
 
+<img src="../assets/ioe536.png" alt="Samsung TV Remote Redesign" width="300" height="300">
 ---
 
 #### IOE 434, Human Error and Complex Systems Failure, University of Michigan
 
 Case Study of the Boeing 737-800 MAX Airplane: My team and I investigated the Lion Air (2018) and Ethiopian Airlines (2019) crashes involving the Boeing 737-800 MAX to determine organizational, regulatory, and technical factors that contributed to these crashes. We analyzed changes implemented because of these plane crashes and provided further recommendations for consideration to decrease the opportunity of future plane crashes.
 
+<img src="../assets/ioe434.png" alt="Boeing 737-800 MAX Depth Model" width="300" height="300">
 ---
 
 #### EECE 592, Foundations of Artificial Intelligence, University of Michigan
 
 Searching Solitaire in Real-Time: My team and I developed a thoughtful solitaire solver to autonomously solve games or determine they are unwinnable to understand game search methods and improve the win percentage (accuracy) of winnable games. We used pattern recognition to determine early solitaire game states that were unwinnable to terminate game play as quickly as possible.
 
+<img src="../assets/eecs592.png" alt="Solitaire solver" width="300" height="300">
 ---
 
 #### IOE 465, Design and Analysis of Experiments, University of Michigan
@@ -68,6 +71,7 @@ Evaluating the Effects of Feedback and Trial Length on Performance: I investigat
 
 For my senior design project, a small wearable safety device was designed in a discreet bracelet/keychain design targeted toward college/university students with a company sponsor. The device is a way to alert others that you are in a potentially dangerous situation and need help. For example, the device could be used if you are being attacked, robbed, followed, need medical attention, or any other situation in which you feel uncomfortable. The device is intended to be worn as a piece of jewelry or as a keychain. The device could be attached to one’s wrist, belt loop, backpack, or other clothing aspect. By pulling on the strap of the device, the battery is pulled into place to complete the circuit. The device then uses Bluetooth Low Energy to communicate with the user's phone to send a text message or call to a predefined contact list, where preferences can be altered through the phone application. As the project manager, I disseminated tasks to my nine-member team to ensure close adherence to the timeline and budget. I also presented weekly updates and regularly communicated with the project sponsors and course professors.
 
+<img src="../assets/ece4999.png" alt="Senior design project" width="300" height="300">
 ---
 
 #### ECE 4510, Machine Vision, Oakland University
@@ -94,14 +98,28 @@ Banner and Scrolling Messages on Seven-Segment Displays: The purpose of this pro
 
 ---
 
+#### EGR 2800, Design and Analysis of Electromechanical Systems, Oakland University
+
+​My team and I developed a fully functional lockbox display case. The case holds a secret object that is meant for display only. Such a case uses an ultrasonic distance sensor to gauge the relative distance of an approaching user, and signals the system accordingly. If the user passes a certain threshold, the LEDs will turn red and increase in intensity as the user's distance to the lockbox decreases. Once the user gets too close to the secret object, the system enters lockdown mode. An alarming sound plays through the peizo buzzer. A stepper motor mounted to a pulley system is used to automatically close the lid. A servo motor is used to latch and lock the lid, thus securing the secret object. To disengage the alarm and to reopen the box, the user must enter the correct passcode on a keypad. Additionally, the user can reset the passcode after entering the correct passcode. This project is built entirely with Arduino. My contribution to this project is testing the limits of these needed devices, and developing all of the code for proper functionality.
+
+<img src="../assets/egr2800.png" alt="egr 2800 lockbox project" width="400" height="300">
+
+---
+
 #### EGR 141, Computer Problem Solving, Oakland University
 
-text
+These some of the projects that I constructed in Visual Basic. The ideal weight estimator takes inputs based on gender. Using this information, along with an age threshold and current weight, the lean body weight and fat percentage are computed. Then, the user gets their ideal weight. The body fat is measured by measuring the amount of subcutaneous fat, which is directly beneath the skin. It should be noted that if the ideal weight is less than the user's current weight, the solution may not be to lose weight, but to gain muscle.
 
+<img src="../assets/egr141-weight.png" alt="egr 141 weight estimator" width="400" height="500">
+
+The Craps game is a fully-functional casino version of craps. The dice are rolled by the click of a button, and the values of the dice and the total are displayed under the stats bar. The white and black markers are capable of moving to the proper location on the board based on the dice roll. The score is kept track of until the player either wins or loses, at which point a new game begins.
+
+<img src="../assets/egr141-craps.png" alt="egr 141 craps game" width="400" height="500">
 ---
 
 #### EGR 120, Engineering Graphics and CAD, Oakland University
 
 Below are some of the parts that I have designed in CATIA V5. 
 
+<img src="../assets/egr120.png" alt="egr 120 fridge design" width="400" height="500">
 ---
