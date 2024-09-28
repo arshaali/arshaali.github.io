@@ -7,35 +7,35 @@ weight: 4
 
 ### University of Michigan relevant courses
 
-ROB 501, Math for Robotics
-ROB 550, Robotic Systems Lab
-ROB 535, Self-Driving Cars
-EECS 592, Foundations of Artifical Intelligence
-EECS 560, Linear Systems Theory
-IOE 465, Design and Analysis of Experiments
-IOE 434, Human Error and Complex System Failures
-IOE 536, Cognitive Ergonomics and Human Systems Integration
-IOE 570, Experimental Design
+- ROB 501, Math for Robotics
+- ROB 550, Robotic Systems Lab
+- ROB 535, Self-Driving Cars
+- EECS 592, Foundations of Artifical Intelligence
+- EECS 560, Linear Systems Theory
+- IOE 465, Design and Analysis of Experiments
+- IOE 434, Human Error and Complex System Failures
+- IOE 536, Cognitive Ergonomics and Human Systems Integration
+- IOE 570, Experimental Design
 
 ---
 
 ### Oakland University relevant courses
 
-EGR 120, Engineering Graphics and CAD
-EGR 141, Computer Problem Solving
-EGR 2800, Design and Analysis of Electromechanical Systems
-CSE 230, Object-Oriented Computing I
-CSI 2209, Intro to Data Stuctures in C
-CSI 3640, Computer Organization
-ECE 2700, Digital Logic Design
-ECE 3710, Computer Hardware Design
-ECE 4720, Microprocessor-based System Design
-ECE 4510, Machine Vision
-ECE 4500, Robotic Systems and Control
-ECE 4999, Senior Design
-MIS 4460, Business Analytics
-MIS 4500, Web Analytics
-MIS 4470, Practical Computing and Data Analytics
+- EGR 120, Engineering Graphics and CAD
+- EGR 141, Computer Problem Solving
+- EGR 2800, Design and Analysis of Electromechanical Systems
+- CSE 230, Object-Oriented Computing I
+- CSI 2209, Intro to Data Stuctures in C
+- CSI 3640, Computer Organization
+- ECE 2700, Digital Logic Design
+- ECE 3710, Computer Hardware Design
+- ECE 4720, Microprocessor-based System Design
+- ECE 4510, Machine Vision
+- ECE 4500, Robotic Systems and Control
+- ECE 4999, Senior Design
+- MIS 4460, Business Analytics
+- MIS 4500, Web Analytics
+- MIS 4470, Practical Computing and Data Analytics
 
 ---
 
