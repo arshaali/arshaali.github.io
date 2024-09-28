@@ -7,7 +7,7 @@ weight: 1
 
 ### Research Interests
 
-Research: human-robot interaction, human-robot teaming, driver-vehicle interaction, autonomous vehicles, trust, situation awareness, shared mental models
+human-robot interaction, human-robot teaming, driver-vehicle interaction, autonomous vehicles, trust, situation awareness, shared mental models
 
 
 ---
