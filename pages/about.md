@@ -46,6 +46,7 @@ td, th {
 }
 </style>
 
+2025       | Richard F. and Eleanor A. Towner Prize for Distinguished Academic Achievement
 2024       | 2024 University of Michigan Robotics Outreach Ambassador Award
            | U.S. Army Summer Research Symposium Competition Finalist
 2023       | I/ITSEC RADM Fred Lewis Scholarship
