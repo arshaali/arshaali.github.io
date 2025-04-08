@@ -12,6 +12,12 @@ td, th {
 }
 </style>
 
+### 2025
+
+Mar 17 | Defended my PhD!
+Mar 16 | Awarded the Richard F. and Eleanor A. Towner Prize for Distinguished Academic Achievement.
+
+
 ### 2024
 
 Sept 26 | Earned the 2024 University of Michigan [Robotics Outreach Ambassador Award](https://robotics.umich.edu/2024/robotics-outreach-ambassadors-of-2024/).
