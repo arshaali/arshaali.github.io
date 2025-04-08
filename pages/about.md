@@ -48,18 +48,18 @@ td, th {
 
 2025       | Richard F. and Eleanor A. Towner Prize for Distinguished Academic Achievement
 2024       | 2024 University of Michigan Robotics Outreach Ambassador Award
-           | U.S. Army Summer Research Symposium Competition Finalist
+2024       | U.S. Army Summer Research Symposium Competition Finalist
 2023       | I/ITSEC RADM Fred Lewis Scholarship
-           | 2023 University of Michigan Robotics Outreach Ambassador Award
-           | First Place in the 2023 Munger Case Competition
+2023       | 2023 University of Michigan Robotics Outreach Ambassador Award
+2023       | First Place in the 2023 Munger Case Competition
 2022       | 2022 University of Michigan Robotics Outreach Ambassador Award  
 2021       | 2021 University of Michigan Robotics Outreach Ambassador Award  
 2020       | Engineering Society of Detroit Outstanding College Student of the Year
-           | Oakland University John and Horace Dodge Engineering Academic Award
-           | Oakland University Honors College Highest GPA Award
+2020       | Oakland University John and Horace Dodge Engineering Academic Award
+2020       | Oakland University Honors College Highest GPA Award
 2019       | Oakland University Honors College Merit Award
-           | Oakland University Provost Undergraduate Research Award
-           | Oakland University Department of Mathematics and Statistics Outstanding Academic Achievement Award
+2019       | Oakland University Provost Undergraduate Research Award
+2019       | Oakland University Department of Mathematics and Statistics Outstanding Academic Achievement Award
 
 ---
 
@@ -75,7 +75,7 @@ td, th {
 2023       | African Undergraduate Research Adventure, mentor
 2022       | Local Human-Robot Interaction Student Presentation Series, organizer
 2022       | Rackham First-Generation Student Mentoring Program, mentor
-2021, 2022 | Lunch & Lab Grad Mentoring Program, mentor
+2021 - 2022| Lunch & Lab Grad Mentoring Program, mentor
 2019 - 2020| Oakland University Aerial Systems "Drone" Club, president
 2019 - 2020| Oakland University Society of Women Engineers, treasurer
 2020       | Oakland University Senior Design, project manager
