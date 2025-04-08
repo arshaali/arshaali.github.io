@@ -1,7 +1,7 @@
 - title: University of Michigan
   from: 2020
-  to: Present
-  description: PhD in Robotics<br> <br> <br>
+  to: 2025
+  description: PhD in Robotics<br>Thesis: Situation Awareness and Trust Methods for Improving Human-Robot Team Performance<br>Advisors: Professor Dawn Tilbury, Professor Lionel Robert
   img: ../assets/um_logo.png
   imgalt: University of Michigan logo
 
@@ -15,6 +15,6 @@
 - title: Oakland University
   from: 2016
   to: 2020
-  description: B.S. in Computer Engineering<br>B.S. in Electrical Engineering<br> Minor in Business Analytics<br> Graduate of The Honors College
+  description: B.S. in Computer Engineering<br>B.S. in Electrical Engineering<br> Minor in Business Analytics<br> Graduate of The Honors College<br> Thesis: Evaluation of Common Secondary Tasks in Highly Automated Vehicles<br>Advisor: Professor Osamah Rawashdeh
   img: ../assets/ou_logo.jpg
   imgalt: Oakland University logo
