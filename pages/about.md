@@ -11,9 +11,9 @@ I defended my PhD in robotics at the [University of Michigan](https://umich.edu/
 
 ---
 
-### CV
+### CV/Resume
 
-This ia a [current copy of my CV](https://drive.google.com/file/d/1ojE5LlqVza866FIK1fROpDwwOCYLnuF-/view?usp=sharing) (updated September 21, 2024).
+This is a [current copy of my CV](https://drive.google.com/file/d/1et2juZnfS8aH73eyXQSq87PbB-YDQ9AV/view?usp=sharing) (updated April 14, 2025).
 
 ---
 
@@ -52,6 +52,7 @@ td, th {
 2023       | I/ITSEC RADM Fred Lewis Scholarship
 2023       | 2023 University of Michigan Robotics Outreach Ambassador Award
 2023       | First Place in the 2023 Munger Case Competition
+2022       | 2022 Inclusion@Robotics: Science and Systems Fellowship  
 2022       | 2022 University of Michigan Robotics Outreach Ambassador Award  
 2021       | 2021 University of Michigan Robotics Outreach Ambassador Award  
 2020       | Engineering Society of Detroit Outstanding College Student of the Year
@@ -71,14 +72,14 @@ td, th {
 }
 </style>
 
-2023 - 2025| University of Michigan Housing, Transdisciplinary Fellow
-2023       | African Undergraduate Research Adventure, mentor
-2022       | Local Human-Robot Interaction Student Presentation Series, organizer
-2022       | Rackham First-Generation Student Mentoring Program, mentor
-2021 - 2022| Lunch & Lab Grad Mentoring Program, mentor
-2019 - 2020| Oakland University Aerial Systems "Drone" Club, president
-2019 - 2020| Oakland University Society of Women Engineers, treasurer
-2020       | Oakland University Senior Design, project manager
+2023 - 2025| University of Michigan Housing (Transdisciplinary Fellow)
+2023       | African Undergraduate Research Adventure (Project Mentor)
+2022       | Local Human-Robot Interaction Student Presentation Series (Lead Organizer)
+2022       | Rackham First-Generation Student Mentoring Program (Mentor)
+2021 - 2022| Lunch & Lab Grad Mentoring Program (Mentor)
+2019 - 2020| Oakland University Aerial Systems "Drone" Club (President)
+2019 - 2020| Oakland University Society of Women Engineers (Treasurer)
+2020       | Oakland University Senior Design (Project Manager)
 
 ---
 
@@ -90,11 +91,11 @@ td, th {
 }
 </style>
 
-2025       | Robotics Mentorship Seminar, panelist
-2023       | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'23), volunteer
-2022       | ACM/IEEE International Conference on Human-Robot Interaction (HRI'22), volunteer
-2022       | A2 Area Invention Convention, project judge
-2020 - 2023| Michigan Council of Women in Technology GET-IT Summit, volunteer
-2018       | Oakland University summer international student engineering lab, teaching assistant
+2025       | Robotics Mentorship Seminar (Panelist)
+2023       | IEEE/RSJ International Conference on Intelligent Robots and Systems (Volunteer)
+2022       | ACM/IEEE International Conference on Human-Robot Interaction (Volunteer)
+2022       | A2 Area Invention Convention (Project Judge)
+2020 - 2023| Michigan Council of Women in Technology GET-IT Summit (Volunteer)
+2018       | Oakland University Accelerated International Engineering Lab (Teaching Assistant)
 
 ---
