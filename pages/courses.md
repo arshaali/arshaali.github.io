@@ -138,6 +138,18 @@ Banner and Scrolling Messages on Seven-Segment Displays: The purpose of this pro
 
 ---
 
+#### CSI 2209
+
+#### Intro to Data Stuctures in C
+
+#### Oakland University
+
+My final project was on the popular card game Go Fish!. ​This project is a simulation of the classic children’s card game Go Fish! using Microsoft Visual Studio and C. The objective of the game is to form as many pairs of cards of the same number as possible. Whoever has more pairs of cards at the end between the user and the computer is the winner. The user and the computer are each dealt five cards to start the game. The user and computer take turns asking each other for a specific card or drawing from the Go Fish! pile. The code automatically handles shuffling the deck, checking for pairs, determining whose turn it is, validating cards that are asked for, transferring cards between the user’s deck, the computer’s deck, and the Go Fish! pile
+
+<img src="../assets/csi2209.png" alt="csi 2209 go fish project" width="600" height="500">
+
+---
+
 #### EGR 2800
 
 #### Design and Analysis of Electromechanical Systems
@@ -156,7 +168,7 @@ Banner and Scrolling Messages on Seven-Segment Displays: The purpose of this pro
 
 #### Oakland University
 
-These some of the projects that I constructed in Visual Basic. The ideal weight estimator takes inputs based on gender. Using this information, along with an age threshold and current weight, the lean body weight and fat percentage are computed. Then, the user gets their ideal weight. The body fat is measured by measuring the amount of subcutaneous fat, which is directly beneath the skin. It should be noted that if the ideal weight is less than the user's current weight, the solution may not be to lose weight, but to gain muscle.
+These are some of the projects that I constructed in Visual Basic. The ideal weight estimator takes inputs based on gender. Using this information, along with an age threshold and current weight, the lean body weight and fat percentage are computed. Then, the user gets their ideal weight. The body fat is measured by measuring the amount of subcutaneous fat, which is directly beneath the skin. It should be noted that if the ideal weight is less than the user's current weight, the solution may not be to lose weight, but to gain muscle.
 
 <img src="../assets/egr141-weight.png" alt="egr 141 weight estimator" width="500" height="500">
 
@@ -172,7 +184,7 @@ The Craps game is a fully-functional casino version of craps. The dice are rolle
 
 #### Oakland University
 
-Below are some of the parts that I have designed in CATIA V5. 
+Below are some refrigerator parts that I have designed in CATIA V5. 
 
 <img src="../assets/egr120.png" alt="egr 120 fridge design" width="600" height="600">
 
