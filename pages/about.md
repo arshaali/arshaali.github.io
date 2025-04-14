@@ -7,7 +7,7 @@ weight: 5
 
 ### About Me
 
-I defended my PhD in robotics at the [University of Michigan](https://umich.edu/) in March 2025. I am now seeking a full-time engineering role.
+I am seeking a full-time engineering role. I defended my PhD in robotics at the [University of Michigan](https://umich.edu/) in March 2025, working with the Michigan Autonomous Vehicle Research Intergroup Collaboration ([MAVRIC](https://mavric.si.umich.edu/home)).
 
 ---
 
