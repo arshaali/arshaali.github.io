@@ -17,6 +17,16 @@ This is a [current copy of my CV](https://drive.google.com/file/d/1et2juZnfS8aH7
 
 ---
 
+### Skills
+
+**Programming Languages:** Python, MATLAB, C, C++, Arduino
+
+**Software:** IBM SPSS Statistics, Unreal Engine, GitHub, Overleaf/LaTeX, Microsoft Office, Microsoft Visual Studio
+
+**Hardware:** Arduino microprocessor, Pupil Labs eye tracker
+
+---
+
 
 ### Education
 
