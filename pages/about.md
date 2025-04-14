@@ -11,7 +11,7 @@ I defended my PhD in robotics at the [University of Michigan](https://umich.edu/
 
 ---
 
-### CV/Resume
+### CV
 
 This is a [current copy of my CV](https://drive.google.com/file/d/1et2juZnfS8aH73eyXQSq87PbB-YDQ9AV/view?usp=sharing) (updated April 14, 2025).
 
