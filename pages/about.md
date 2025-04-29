@@ -9,21 +9,30 @@ weight: 5
 
 I am seeking a full-time engineering role. I defended my PhD in robotics at the [University of Michigan](https://umich.edu/) in March 2025, working with the Michigan Autonomous Vehicle Research Intergroup Collaboration ([MAVRIC](https://mavric.si.umich.edu/home)).
 
+Summary of experiences and qualifications:
+* Expertise in programming languages including Python, C, C++, and MATLAB
+* Successfully led and concurrently managed numerous long-term research projects from ideation to execution to publication in top peer-reviewed outlets, consistently delivering high-quality results
+* Experience in automotive industry roles, with a proven ability to master new technologies and procedures
+* Multiple leadership roles complemented by active participation in community outreach, teaching, and mentorship
+* Career interests include software and computer engineering, programming, human factors engineering, autonomous vehicles, driver-vehicle interaction, robotics, data analytics, user experience, and related fields
+* Education includes a PhD in Robotics (2025), MS in Robotics (2022), and dual BS degrees in Computer Engineering and Electrical Engineering (2020)
+* Exceptionally organized, detail-oriented, passionate, and reliable; strong independent and teamwork abilities; excellent time management and communication
+
 ---
 
 ### CV
 
-This is a [current copy of my CV](https://drive.google.com/file/d/1et2juZnfS8aH73eyXQSq87PbB-YDQ9AV/view?usp=sharing) (updated April 14, 2025).
+This is a [current copy of my CV](https://drive.google.com/file/d/15EUfzjbps9poXzsxLjyrYfL93oBoTzJz/view?usp=sharing) (updated April 28, 2025).
 
 ---
 
 ### Skills
 
-**Programming Languages:** Python, MATLAB, C, C++, Arduino
+**Programming Languages:** Python, MATLAB, C, C++, Visual Basic, VHDL, Java, R
 
-**Software:** IBM SPSS Statistics, Unreal Engine, GitHub, Overleaf/LaTeX, Microsoft Office, Microsoft Visual Studio
+**Software:** Unreal Engine, IBM SPSS Statistics, GitHub, Overleaf/LaTeX, Microsoft Office, Microsoft Visual Studio, Visual Studio Code, JupyterLab, Pygame, CATIA V5, RStudio, CodeWarrior, Xilinx Vivado, Lab Streaming Layer
 
-**Hardware:** Arduino microprocessor, Pupil Labs eye tracker
+**Hardware:** Arduino, Pupil Labs eye tracker, Dragon 12, Nexys 4 DDR
 
 ---
 
@@ -56,6 +65,7 @@ td, th {
 }
 </style>
 
+2025       | Michigan Engineering Spring Graduation Graduate Student Ceremony Marshall
 2025       | Richard F. and Eleanor A. Towner Prize for Distinguished Academic Achievement
 2024       | 2024 University of Michigan Robotics Outreach Ambassador Award
 2024       | U.S. Army Summer Research Symposium Competition Finalist
@@ -101,6 +111,8 @@ td, th {
 }
 </style>
 
+2025       | Robotics Building Showcase (Tour Guide)
+2025       | IEEE International Conference on Robotics and Automation (Volunteer)
 2025       | Robotics Mentorship Seminar (Panelist)
 2023       | IEEE/RSJ International Conference on Intelligent Robots and Systems (Volunteer)
 2022       | ACM/IEEE International Conference on Human-Robot Interaction (Volunteer)
