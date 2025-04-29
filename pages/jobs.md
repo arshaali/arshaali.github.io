@@ -7,7 +7,7 @@ weight: 1
 
 ### Career Interests
 
-software engineering, programming, data science/analytics, user experience, human-centered technology, human factors engineering, autonomous vehicles
+software and computer engineering, programming, human factors engineering, autonomous vehicles, driver-vehicle interaction, robotics, data analytics, user experience, and related fields
 
 ---
 
@@ -22,6 +22,8 @@ software engineering, programming, data science/analytics, user experience, huma
 I have been working with the Michigan Autonomous Vehicle Research Intergroup Collaboration (MAVRIC) as a research fellow. The projects I have worked on are all aimed at improving the interactions between humans and robots, with a special interest in robots as semi-autonomous vehicles. I have investigated how a driver's situation awareness can be influenced, estimated in real-time, and calibrated through human-subject user studies. I have developed a task allocation method based on trust to allocate tasks between humans and robots. I have also collaborated with my lab mates to understand how semi-autonomous vehicles can repair trust in a human driver, how a tour guide robot can assess human visitor engagement, and how a security robot can be accepted by human users.
 
 <img src="../assets/saco2_drivingsim.jpg" alt="Driving Simulator" width="300" height="300">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QspkXDuoXUM?si=0SVvwlRvr3I2NIYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
