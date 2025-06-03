@@ -14,6 +14,7 @@ td, th {
 
 ### 2025
 
+May 19 - 23 | Attended the [ICRA Conference](https://2025.ieee-icra.org/) in Atlanta, presented a late breaking results poster, and served as a volunteer manager.
 Mar 17 | Defended my PhD!
 Mar 16 | Awarded the Richard F. and Eleanor A. Towner Prize for Distinguished Academic Achievement.
 
