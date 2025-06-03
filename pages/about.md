@@ -105,7 +105,7 @@ td, th {
 
 ---
 
-### Outreach and Academic Service
+### Outreach, Volunteering, and Academic Service
 
 <style>
 td, th {
@@ -113,8 +113,8 @@ td, th {
 }
 </style>
 
+2025       | IEEE International Conference on Robotics and Automation (Volunteer Manager)
 2025       | Robotics Building Showcase (Tour Guide)
-2025       | IEEE International Conference on Robotics and Automation (Volunteer)
 2025       | Robotics Mentorship Seminar (Panelist)
 2023       | IEEE/RSJ International Conference on Intelligent Robots and Systems (Volunteer)
 2022       | ACM/IEEE International Conference on Human-Robot Interaction (Volunteer)
