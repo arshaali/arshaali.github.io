@@ -24,7 +24,7 @@ Summary of experiences and qualifications:
 
 This is a [current copy of my CV](https://drive.google.com/file/d/1B9y2-eiomMr3_YxdNobWSLVyENeIOIVE/view?usp=sharing) (updated June 2, 2025).
 
-This is a [current copy of my one-page resume](https://drive.google.com/file/d/1HxOCCHLNcYhzaH-rUfQMcWiFqqCOmjm4/view?usp=sharing) (updated June 2, 2025).
+This is a [current copy of my one-page resume](https://drive.google.com/file/d/1KlWPuFJu5RzYfmImQ3_TF6r63kLTiDgo/view?usp=sharing) (updated June 2, 2025).
 
 ---
 
