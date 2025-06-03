@@ -45,7 +45,7 @@ weight: 4
 
 #### University of Michigan
 
-Evolutionary Redesign of a Samsung TV Remote Control: My team and I conducted cognitive task analyses involving structured interviews, surveys, and concurrent think-aloud verbal protocols and utilized three sets of design heuristics to uncover how people use this TV remote. We then redesigned this TV remote to support a cognitive triad relationship between users’ goals, the abilities of the TV remote, and the world/environment in which actions are performed.
+Evolutionary Redesign of a Samsung TV Remote Control: My team and I conducted cognitive task analyses involving structured interviews, surveys, and concurrent think-aloud verbal protocols and utilized three sets of design heuristics to uncover how people use this Samsung TV remote. We then redesigned this Samsung TV remote to support a cognitive triad relationship between users’ goals, the abilities of the TV remote, and the world/environment in which actions are performed.
 
 <img src="../assets/ioe536.png" alt="Samsung TV Remote Redesign" width="600" height="600">
 
@@ -57,7 +57,7 @@ Evolutionary Redesign of a Samsung TV Remote Control: My team and I conducted co
 
 #### University of Michigan
 
-Case Study of the Boeing 737-800 MAX Airplane: My team and I investigated the Lion Air (2018) and Ethiopian Airlines (2019) crashes involving the Boeing 737-800 MAX to determine organizational, regulatory, and technical factors that contributed to these crashes. We analyzed changes implemented because of these plane crashes and provided further recommendations for consideration to decrease the opportunity of future plane crashes.
+Case Study of the Boeing 737-800 MAX Airplane: My team and I investigated the Lion Air (2018) and Ethiopian Airlines (2019) crashes involving the Boeing 737-800 MAX to determine organizational, regulatory, and technical factors that contributed to these airplane crashes. We analyzed changes implemented because of these airplane crashes and provided further recommendations for consideration to decrease the opportunity of future airplane crashes.
 
 <img src="../assets/ioe434.png" alt="Boeing 737-800 MAX Depth Model" width="600" height="500">
 
@@ -69,7 +69,7 @@ Case Study of the Boeing 737-800 MAX Airplane: My team and I investigated the Li
 
 #### University of Michigan
 
-Searching Solitaire in Real-Time: My team and I developed a thoughtful solitaire solver to autonomously solve games or determine they are unwinnable to understand game search methods and improve the win percentage (accuracy) of winnable games. We used pattern recognition to determine early solitaire game states that were unwinnable to terminate game play as quickly as possible.
+Searching Solitaire in Real-Time: My team and I developed a thoughtful solitaire solver in Python to autonomously solve games or determine they are unwinnable using heuristic functions and action pruning to understand game search methods and improve the win percentage (accuracy) of winnable games. I coded for pattern recognition to prune actions early that would result in an unwinnable game state and to terminate game play as quickly as possible for unwinnable games to improve the functionality of the solver.
 
 <img src="../assets/eecs592.png" alt="Solitaire solver" width="500" height="400">
 
@@ -81,7 +81,7 @@ Searching Solitaire in Real-Time: My team and I developed a thoughtful solitaire
 
 #### University of Michigan
 
-Evaluating the Effects of Feedback and Trial Length on Performance: I investigated the effects of positive and negative feedback on performance and subjective ratings of performance during ten trials of the PEBL tracking test to understand the relationship between feedback and performance. I conducted exploratory data analysis and ran mixed-design ANOVA and paired-sample t-tests for statistical significance to determine the importance of the results.
+Evaluating the Effects of Feedback and Trial Length on Performance: I investigated the effects of positive and negative feedback on performance and subjective ratings of performance during ten trials of the PEBL tracking test to understand the relationship between feedback and performance. I conducted exploratory data analysis and ran mixed-design ANOVA and paired-sample t-tests in SPSS for statistical significance to determine the importance of the results.
 
 ---
 
