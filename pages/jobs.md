@@ -13,7 +13,7 @@ software and computer engineering, programming, human factors engineering, auton
 
 ### University of Michigan
 
-#### Graduate Research Assistant
+#### Research Assistant
 
 #### Ann Arbor, Michigan, USA
 
