@@ -26,6 +26,14 @@ I have also developed a task allocation method based on trust to allocate tasks 
 <img src="../assets/saco2_drivingsim.jpg" alt="Driving Simulator" width="300" height="300">
 
 <div align="center">
+  <iframe width="560" height="315" src="https://youtu.be/a-3vmqxt8Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div align="center">
+  <iframe width="560" height="315" src="https://youtu.be/TG6cRGQHvJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/QspkXDuoXUM?si=0SVvwlRvr3I2NIYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
@@ -94,6 +102,10 @@ I also built dynamic projects to display in the Engineering Center first floor s
 <img src="../assets/delta_robot.jpg" alt="Delta robot project" width="300" height="300">
 
 Another project I built was ​a PID controller designed to stabilize a ball, move the ball in a circle, and move the ball in a rectangle on a flat plate. A pixy camera is used to detect the position of the colored ball, and this position is read by the Arduino Uno microprocessor. The code uses the error between the current position of the ball and the desired position along with the time between consecutive errors to control servos for the x and y axis attached to the plate. This system utilizes a proportional and a derivative constant. The constants were tuned to obtain the fastest response from the system. The stabilization of the ball was achieved by setting a desired position for the ball. The circular and rectangular movements were achieved by varying the desired position for the ball with time.
+
+<div align="center">
+  <iframe width="250" height="400" src="https://youtube.com/shorts/7bAr-AdT2BM?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Another project I worked on was a holiday music box. This system is modeled off of a classic music box. The Holiday Music Box plays the familiar holiday tune of Jingle Bells. A series of photointerrupters are used for each note (A through G) in place of the traditional comb. The photointerrupter consists of a light-emitting element and a light-receiving element. When an object blocks the path between these components, the output voltage changes. To play this song, a piece of foam will pass through each photointerrupter for a specific note. The foam pieces rest on a cylindrical drum that is rotating. As soon as a piece of foam passes between a photointerrupter, a corresponding note is emitted from the buzzer. Each note in the song is mapped to a foam piece and a DC motor is used to rotate the cylinder containing the notes. To achieve an accurate tune, the length for a quarter note and a rest was chosen, and the other notes such as the eighth note, half note, and whole note were made proportional to the length of the quarter note. For an additional visual appeal, I also corresponded an LED to each note that illuminates in sequence with the buzzer.
 
