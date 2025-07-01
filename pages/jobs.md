@@ -33,7 +33,7 @@ I have also developed a task allocation method based on trust to allocate tasks 
     <iframe align="right" width="430" height="300" src="https://youtube.com/embed/TG6cRGQHvJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<br>
+<br/><br/>
 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/QspkXDuoXUM?si=0SVvwlRvr3I2NIYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
