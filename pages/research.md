@@ -18,7 +18,7 @@ human-robot interaction, human-robot teaming, driver-vehicle interaction, autono
 
 The objective of this research project was to develop methods for estimating and calibrating situation awareness in human-robot teams to optimize their overall performance. A multi-phase solution was used. An experiment on how shared mental models and communication amount impact team situation awareness contributed with an expression of team situation awareness and demonstration of how shared mental models are critical for team situation awareness when communication is limited. Next, an experiment on communication sources clarified the crucial role of external communication in enhancing human situation awareness. Then, a situation awareness system that estimates human situation awareness in real-time and adapts robot behavior in response was developed and evaluated. Through experimentation, the situation awareness system was demonstrated to improve situation awareness and performance.
 
-The entirety of this work is documented in my [PhD thesis](https://deepblue.lib.umich.edu/handle/2027.42/197186). The situation awareness estimator is published in a IEEE RO-MAN conference paper. Other journal and conference papers from these projects are currently under review.
+The entirety of this work is documented in my [PhD thesis](https://deepblue.lib.umich.edu/handle/2027.42/197186). The situation awareness estimator is published in a [IEEE RO-MAN conference paper](https://ieeexplore.ieee.org/document/11217621). Other journal and conference papers from these projects are currently under review.
 
 ---
 
