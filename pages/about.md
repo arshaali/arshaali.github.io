@@ -7,7 +7,7 @@ weight: 5
 
 ### About Me
 
-I am seeking a full-time engineering role. I defended my PhD in robotics at the [University of Michigan](https://umich.edu/) in March 2025, working with the Michigan Autonomous Vehicle Research Intergroup Collaboration ([MAVRIC](https://mavric.si.umich.edu/home)).
+I am a software engineer. I defended my PhD in robotics at the [University of Michigan](https://umich.edu/) in March 2025, working with the Michigan Autonomous Vehicle Research Intergroup Collaboration ([MAVRIC](https://mavric.si.umich.edu/home)).
 
 Summary of experiences and qualifications:
 * Expertise in programming languages including Python, C, C++, and MATLAB
@@ -67,6 +67,7 @@ td, th {
 }
 </style>
 
+2025       | 2025 University of Michigan Robotics Outreach Ambassador Award
 2025       | Michigan Engineering Spring Graduation Graduate Student Ceremony Marshall
 2025       | Richard F. and Eleanor A. Towner Prize for Distinguished Academic Achievement
 2024       | 2024 University of Michigan Robotics Outreach Ambassador Award
