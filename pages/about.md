@@ -22,9 +22,11 @@ Summary of experiences and qualifications:
 
 ### Resume/CV
 
-This is a [current copy of my two-page resume](https://drive.google.com/file/d/17q7xwmTwbJVjvR0zWUeFEb66reX2WRav/view?usp=sharing) (updated June 23, 2025).
+Please contact me to request a copy of my resume or CV.
 
-This is a [current copy of my CV](https://drive.google.com/file/d/1B9y2-eiomMr3_YxdNobWSLVyENeIOIVE/view?usp=sharing) (updated June 2, 2025).
+[comment]: <> (This is a [current copy of my two-page resume](https://drive.google.com/file/d/17q7xwmTwbJVjvR0zWUeFEb66reX2WRav/view?usp=sharing) (updated June 23, 2025).)
+
+[comment]: <> (This is a [current copy of my CV](https://drive.google.com/file/d/1B9y2-eiomMr3_YxdNobWSLVyENeIOIVE/view?usp=sharing) (updated June 2, 2025).)
 
 ---
 
