@@ -14,6 +14,8 @@ td, th {
 
 ### 2025
 
+Sept 22 | Earned the 2025 University of Michigan [Robotics Outreach Ambassador Award](https://robotics.umich.edu/news/2025/robotics-outreach-ambassadors-of-2025/).
+Aug 25 - 29 | Conference paper was accepted and presented at [IEEE RO-MAN](https://www.ro-man2025.org/) in Eindhoven, the Netherlands. 
 Jun 17 - 18 | Presented a technical talk and poster at the [ARC Annual Review](https://arc.engin.umich.edu/events/annual-program-review/).
 May 19 - 23 | Attended the [ICRA Conference](https://2025.ieee-icra.org/) in Atlanta, presented a late breaking results poster, and served as a volunteer manager.
 Mar 17 | Defended my PhD!
