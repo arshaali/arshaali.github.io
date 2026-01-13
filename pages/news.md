@@ -12,6 +12,11 @@ td, th {
 }
 </style>
 
+### 2026
+
+Jan 13 | Journal paper on shared mental models, communication, and team situation awareness was published in [IEEE Access](https://ieeexplore.ieee.org/document/11346936).
+
+
 ### 2025
 
 Sept 22 | Earned the 2025 University of Michigan [Robotics Outreach Ambassador Award](https://robotics.umich.edu/news/2025/robotics-outreach-ambassadors-of-2025/).
