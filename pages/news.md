@@ -14,7 +14,7 @@ td, th {
 
 ### 2026
 
-Jan 13 | Journal paper on shared mental models, communication, and team situation awareness was published in [IEEE Access](https://ieeexplore.ieee.org/document/11346936).
+Jan 13 &nbsp; &nbsp; &nbsp; &nbsp; | Journal paper on shared mental models, communication, and team situation awareness was published in [IEEE Access](https://ieeexplore.ieee.org/document/11346936).
 
 
 ### 2025
