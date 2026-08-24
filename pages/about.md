@@ -34,7 +34,7 @@ Please contact me to request a copy of my resume or CV.
 
 **Programming Languages:** Python, MATLAB, C, C++, Visual Basic, VHDL, Java, R
 
-**Software:** Unreal Engine, IBM SPSS Statistics, GitHub, Overleaf/LaTeX, Microsoft Office, Microsoft Visual Studio, Visual Studio Code, JupyterLab, Pygame, CATIA V5, RStudio, CodeWarrior, Xilinx Vivado, Lab Streaming Layer
+**Software:** Unreal Engine, IBM SPSS Statistics, GitHub, Overleaf/LaTeX, Microsoft Office, Microsoft Visual Studio, Visual Studio Code, JupyterLab, Pygame, CATIA V5, RStudio, CodeWarrior, Xilinx Vivado, Lab Streaming Layer, Jira, Confluence, Miro
 
 **Hardware:** Arduino, Pupil Labs eye tracker, Dragon 12, Nexys 4 DDR
 
